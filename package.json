@@ -164,7 +164,7 @@
     "diff": "^3.2.0",
     "editorconfig": "^0.13.2",
     "eslint": "^4.0.0",
-    "event-kit": "^2.3.0",
+    "event-kit": "^2.4.0",
     "expand-home-dir": "0.0.3",
     "extend": "^3.0.1",
     "gherkin": "^2.12.2",
