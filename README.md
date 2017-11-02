@@ -148,7 +148,7 @@ See [all supported options in the documentation at  `docs/options.md`](docs/opti
 | Golang Template | `HTML (Go)`, `Go Template` |`.gohtml` | **[`Pretty Diff`](https://github.com/prettydiff/prettydiff)** |
 | Handlebars | `Handlebars`, `HTML (Handlebars)` |`.hbs`, `.handlebars` | **[`JS Beautify`](https://github.com/beautify-web/js-beautify)**, [`Pretty Diff`](https://github.com/prettydiff/prettydiff) |
 | Haskell | `Haskell` |`.hs` | **[`stylish-haskell`](https://github.com/jaspervdj/stylish-haskell)** |
-| HTML | `HTML` |`.html` | **[`JS Beautify`](https://github.com/beautify-web/js-beautify)**, [`Pretty Diff`](https://github.com/prettydiff/prettydiff) |
+| HTML | `HTML` |`.html`, `.j2` | **[`JS Beautify`](https://github.com/beautify-web/js-beautify)**, [`Pretty Diff`](https://github.com/prettydiff/prettydiff) |
 | Jade | `Jade`, `Pug` |`.jade`, `.pug` | **[`Pug Beautify`](https://github.com/vingorius/pug-beautify)** |
 | Java | `Java` |`.java` | **[`Uncrustify`](https://github.com/uncrustify/uncrustify)** |
 | JavaScript | `JavaScript` |`.js` | **[`JS Beautify`](https://github.com/beautify-web/js-beautify)**, [`ESLint Fixer`](https://github.com/eslint/eslint), [`JSCS Fixer`](https://github.com/jscs-dev/node-jscs/), [`Pretty Diff`](https://github.com/prettydiff/prettydiff) |
